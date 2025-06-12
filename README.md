@@ -1,5 +1,5 @@
-## About Me:
-Web Development | MCA Student | BCA Graduate
+
+## Web Development | MCA Student | BCA Graduate
 
 
 ## Socials:
