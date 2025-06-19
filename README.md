@@ -1,5 +1,5 @@
 # Naresh
-[Personal Portfolio](https://resonant-monstera-b62c3e.netlify.app/#home)
+[Personal Portfolio](https://28naresh.netlify.app/)
 ## Web Development | MCA Student | BCA Graduate
 
 ## Socials:
