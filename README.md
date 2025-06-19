@@ -1,6 +1,6 @@
 # Naresh
+[Personal Portfolio](https://resonant-monstera-b62c3e.netlify.app/#home)
 ## Web Development | MCA Student | BCA Graduate
-
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@itts_naresh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@28naresh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naresh282004@gmail.com) 
