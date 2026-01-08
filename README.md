@@ -39,7 +39,7 @@
 ```typescript
 class FullStackDeveloper {
   constructor() {
-    this.name = "Naresh Kumar";
+    this.name = "Naresh ";
     this.location = "Bareilly, Uttar Pradesh, India 🇮🇳";
     this.education = {
       current: "MCA Student",
