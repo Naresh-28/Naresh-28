@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naresh%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Naresh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Animated Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;MCA+Student+%7C+BCA+Graduate+%F0%9F%8E%93;Building+The+Future+One+Line+At+A+Time+%F0%9F%92%BB" alt="Typing SVG" />
@@ -39,7 +39,7 @@
 ```typescript
 class FullStackDeveloper {
   constructor() {
-    this.name = "Naresh ";
+    this.name = "Naresh Kumar";
     this.location = "Bareilly, Uttar Pradesh, India 🇮🇳";
     this.education = {
       current: "MCA Student",
